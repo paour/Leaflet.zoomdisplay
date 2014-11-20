@@ -1,8 +1,7 @@
 .leaflet-control-zoom-display {
-    width: 22px;
-    height: 22px;
-    left: 3px;
+    width: 26px;
+    height: 26px;
+    line-height: 26px;
     text-align: center;
-    font: bold 12px/20px Tahoma, Verdana, sans-serif;
-    padding-top: 0.3em;
+    text-decoration: none;
 }
