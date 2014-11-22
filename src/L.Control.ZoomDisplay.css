@@ -5,3 +5,8 @@
     text-align: center;
     text-decoration: none;
 }
+
+.leaflet-touch .leaflet-control-zoom-display {
+    width: 34px;
+    height: 34px;
+}
