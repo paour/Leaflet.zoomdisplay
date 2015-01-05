@@ -4,6 +4,7 @@
     line-height: 26px;
     text-align: center;
     text-decoration: none;
+	background-color: #FFF;
 }
 
 .leaflet-touch .leaflet-control-zoom-display {
